@@ -6,7 +6,7 @@
 </p>
 
 ## 🎯 Sobre Mim
-Sou apaixonado por tecnologia e inovação, sempre buscando aprender e enfrentar desafios que façam a diferença. Gosto de explorar novas tecnologias e contribuir com projetos impactantes na comunidade de desenvolvedores.
+Sou apaixonado por tecnologia e inovação, sempre buscando aprender e enfrentar desafios que façam a diferença. Gosto de explorar novas tecnologias e busco continuar sempre a aprender mais sobre esse universo.
 
 ---
 
