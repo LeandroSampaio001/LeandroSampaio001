@@ -2,7 +2,7 @@
 # 💻 Leandro Sampaio
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=35A2E8&size=25&center=true&vCenter=true&lines=Bem-vindo+ao+meu+GitHub!+👋;Sou+desenvolvedor+de+tecnologia+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=35A2E8&size=25&center=true&vCenter=true&lines=Bem-vindo+ao+meu+GitHub!+👋;SouDesenvolvedor+de+tecnologia+🚀" alt="Typing SVG" />
 </p>
 
 ## 🎯 Sobre Mim
